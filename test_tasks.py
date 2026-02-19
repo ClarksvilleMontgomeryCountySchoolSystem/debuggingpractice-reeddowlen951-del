@@ -446,7 +446,7 @@ def test_task2_01_receipt_runs():
     import task2
 
 
-def test_task2_02_candy_total():
+def  test_task2_02_candy_total():
     """Candy: 3 x $1.89 = $5.67"""
     import task2
     
